@@ -6,7 +6,7 @@
 
 ## Deliverables
 
-### 1. Test Case Document (`Tichi_QA_Assignment.xlsx` → Sheet: Test Cases)
+### 1. Test Case Document (`Tichi_QA_Assignment (2).xlsx` → Sheet: Test Cases)
 Contains 30 test cases covering the Login and Signup functionality of the Tichi application.
 
 | Module | No. of Test Cases |
@@ -19,7 +19,7 @@ Each test case includes: Test Case ID, Module, Title, Preconditions, Test Steps,
 
 ---
 
-### 2. Defect Report (`Tichi_QA_Assignment.xlsx` → Sheet: Defect Report)
+### 2. Defect Report (`Tichi_QA_Assignment (2).xlsx` → Sheet: Defect Report)
 A formal defect report for the identified issue:
 
 > **BUG_001** – The application allows users to attempt login with an invalid email format without showing any client-side validation error.
