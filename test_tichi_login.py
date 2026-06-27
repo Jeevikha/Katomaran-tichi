@@ -28,8 +28,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
 APP_URL      = "https://tichi-app-webapp-stage.web.app"
-VALID_EMAIL    = "jjeevikha@gmail.com"   
-VALID_PASSWORD = "BlahBlah@123"                    
+VALID_EMAIL    = "jjeevikha@gmail.com"   #UPDATE
+VALID_PASSWORD = "BlahBlah@123"          #UPDATE       
 WAIT_TIMEOUT   = 10
 
 
