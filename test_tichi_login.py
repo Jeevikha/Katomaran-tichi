@@ -13,7 +13,6 @@ Run tests:
 Requirements:
     - Chrome browser installed
     - Internet connection
-    - A valid Tichi account (update VALID_EMAIL and VALID_PASSWORD below)
 """
 
 import pytest
@@ -29,8 +28,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
 APP_URL      = "https://tichi-app-webapp-stage.web.app"
-VALID_EMAIL    = "your_registered_email@example.com"   # <-- UPDATE THIS
-VALID_PASSWORD = "YourPassword@123"                    # <-- UPDATE THIS
+VALID_EMAIL    = "jjeevikha@gmail.com"   
+VALID_PASSWORD = "BlahBlah@123"                    
 WAIT_TIMEOUT   = 10
 
 
